@@ -5,7 +5,7 @@
 ### The formalism and analytic formulas used in the package are based on the publication:
 
 - ### Volker Koch, Romain Holzmann, Anar Rustamov, Joachim Stroth
-  #### arXiv:
+  #### arXiv: to come soon!
 
 #### Controlling volume fluctuations for studies of critical phenomena in nuclear collisions
 
