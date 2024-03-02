@@ -103,8 +103,8 @@ class VF(Ui_Form):
         self.textBrowser_3.append("Description: Pure cumulants, including volume fluctuations")
         self.textBrowser_3.append("__________________________________________")
         self.textBrowser_3.append(" ")
-        self.textBrowser_3.append("k_n[N] -> nth order cumulant or multiplicity distribution (can be mesured)")
-        self.textBrowser_3.append("k_n[n] -> nth order cumulant or multiplicity distribution per single source") 
+        self.textBrowser_3.append("k_n[N] -> nth order cumulant of the multiplicity distribution (can be mesured)")
+        self.textBrowser_3.append("k_n[n] -> nth order cumulant of the multiplicity distribution per single source") 
         self.textBrowser_3.append("<W> -> mean number of sources") 
         self.textBrowser_3.append("<n> -> mean number of particles per source") 
 
