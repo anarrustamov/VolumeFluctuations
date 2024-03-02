@@ -103,7 +103,7 @@ class VF(Ui_Form):
         self.textBrowser_3.append("Description: Pure cumulants, including volume fluctuations")
         self.textBrowser_3.append("__________________________________________")
         self.textBrowser_3.append(" ")
-        self.textBrowser_3.append("k_n[N] -> nth order cumulant of the multiplicity distribution (can be mesured)")
+        self.textBrowser_3.append("k_n[N] -> nth order cumulant of the multiplicity distribution (can be measured)")
         self.textBrowser_3.append("k_n[n] -> nth order cumulant of the multiplicity distribution per single source") 
         self.textBrowser_3.append("<W> -> mean number of sources") 
         self.textBrowser_3.append("<n> -> mean number of particles per source") 
@@ -137,7 +137,7 @@ class VF(Ui_Form):
         self.textBrowser_3.append(" ")
         self.textBrowser_3.append("k_nm_corr[N1N2] -> corrected covariance of order mn between multiplicity distributions of particles N1 and N2")
         self.textBrowser_3.append("k_nm_[N1N2] -> covariance of order mn between multiplicity distributions of particles N1 and N2 (measured)")
-        self.textBrowser_3.append("Deltanm -> bias term covariance of order mn between multiplicity distributions of particles N1 and N2")
+        self.textBrowser_3.append("Delta[nm] -> bias term covariance of order mn between multiplicity distributions of particles N1 and N2")
 
 
 

@@ -300,7 +300,7 @@ class Volfluct:
                 if (i+j+2) > orderA:
                     continue
                 kn_corr_mix_name.extend(['k_'+str(i+1)+str(j+1)+'_corr[N1N2]'])
-                deltan_mix_name.extend(['Delta'+str(i+1)+str(j+1)])
+                deltan_mix_name.extend(['Delta['+str(i+1)+str(j+1)+']'])
         
         for i in range(0, len(mixcums)):
             b = sp.solve(mixcums[i]-pcummix_N[i],pcummix_N_bar[i])
