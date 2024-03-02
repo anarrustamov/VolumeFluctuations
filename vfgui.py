@@ -1,3 +1,5 @@
+#Author: A.Rustamov 
+
 from importlib.metadata import distribution
 from turtle import st
 from volfluct import Volfluct
